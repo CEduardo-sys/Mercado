@@ -1,0 +1,10 @@
+C:\Users\Eduardo\C#\mercado\bin\Debug\mercado.exe.config
+C:\Users\Eduardo\C#\mercado\bin\Debug\mercado.exe
+C:\Users\Eduardo\C#\mercado\bin\Debug\mercado.pdb
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.csproj.AssemblyReference.cache
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.Form1.resources
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.Properties.Resources.resources
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.csproj.GenerateResource.cache
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.exe
+C:\Users\Eduardo\C#\mercado\obj\Debug\mercado.pdb
